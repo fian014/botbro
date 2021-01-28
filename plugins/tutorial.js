@@ -12,7 +12,7 @@ Ketik di *[TERMUX]*
 Untuk Githubnya..
 5) $git clone https://github.com/fian014/botbro
 6) $ls
-7) $cd Arya-DN
+7) $cd botbro
 
 yang *terakhirr*..
 Penginstalannya cuy :)
