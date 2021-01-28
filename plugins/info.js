@@ -4,7 +4,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Dibuat dengan bahasa javascript via NodeJs
 ╠➥ Rec: Fian014
 ║
-╠➥ Github: https://github.com/Arya274/Arya-DN
+╠➥ Github: https://github.com/fian014/botbro
 ╠➥ Instagram: @fian_014
 ╠➥ YouTube: Mochamad Allifian A
 ║
